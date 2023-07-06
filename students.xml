@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<class>
+   <student idno="101">
+       <firstname>Sam</firstname>
+       <lastname>Anderson</lastname>
+       <score>90</score>
+   </student> 
+   <student idno="102">
+       <firstname>Jen</firstname>
+       <lastname>Marcus</lastname>
+       <score>95</score>
+   </student>  
+    <student idno="103">
+       <firstname>Sara</firstname>
+       <lastname>Jamil</lastname>
+       <score>90</score>
+   </student>  
+</class>
+   
+       
+       
+       
